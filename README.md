@@ -12,6 +12,8 @@ Every so often I update this repository using [Google Scholar][1] data.
 
 ## Data files
 
+These are links to the raw data, not the GitHub "pretty" versions:
+
 * [BibTeX][2]
 * [EndNote][3]
 
