@@ -1,8 +1,6 @@
 # My publications
 
-Every so often I update this repository using
-[Google Scholar](http://scholar.google.co.uk/citations?user=lIcRrmQAAAAJ&hl=en)
-data.
+Every so often I update this repository using [Google Scholar][1] data.
 
 ## Citation indices
 
@@ -11,3 +9,5 @@ data.
 | Citations | 198 | 137 |
 | h-index | 6 | 5 |
 | i10-index | 4 | 2 |
+
+[1]: http://scholar.google.co.uk/citations?user=lIcRrmQAAAAJ&hl=en
