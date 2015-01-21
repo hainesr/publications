@@ -4,9 +4,9 @@ Every so often I update this repository using [Google Scholar][1] data.
 
 ## Citation indices
 
-|   | All | Since 2009 |
+|   | All | Since 2010 |
 |---|----:|-----------:|
-| Citations | 198 | 137 |
+| Citations | 209 | 134 |
 | h-index | 6 | 5 |
 | i10-index | 4 | 2 |
 
