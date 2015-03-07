@@ -6,8 +6,8 @@ Every so often I update this repository using [Google Scholar][1] data.
 
 |   | All | Since 2010 |
 |---|----:|-----------:|
-| Citations | 217 | 147 |
-| h-index | 6 | 5 |
+| Citations | 222 | 152 |
+| h-index | 7 | 5 |
 | i10-index | 4 | 2 |
 
 ## Data files
