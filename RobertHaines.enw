@@ -13,7 +13,7 @@
 %I The Royal Society
 
 
-%0 Journal Article
+%0 Conference Proceedings
 %T The teragyroid experiment
 %A Pickles, SM
 %A Blake, RJ
@@ -25,24 +25,24 @@
 %A González-Segredo, N
 %A Haines, R
 %A Harting, J
-%J Proceedings of the Workshop on Case Studies on Grid Applications at GGF
+%B Proceedings of the Workshop on Case Studies on Grid Applications at GGF
 %V 10
 %P 2004
 %D 2004
 
 
-%0 Journal Article
+%0 Conference Proceedings
 %T Practical tools for computational steering
 %A Pickles, SM
 %A Haines, R
 %A Pinning, RL
 %A Porter, AR
-%J Proceedings of the UK e-Science All Hands Meeting
+%B Proceedings of the UK e-Science All Hands Meeting
 %P 579-586
 %D 2004
 
 
-%0 Journal Article
+%0 Conference Proceedings
 %T Patient specific whole cerebral blood flow simulation: A future role in surgical treatment for neurovascular pathologies
 %A Manos, Steven
 %A Zasada, Stefan
@@ -53,7 +53,7 @@
 %A Pinning, Robin
 %A Brooke, John
 %A Coveney, Peter V
-%J Proc. of the TeraGrid 2008 Conference, Virginia, USA
+%B Proc. of the TeraGrid 2008 Conference, Virginia, USA
 %D 2008
 
 
@@ -122,13 +122,13 @@
 %A Mc Keown, M
 
 
-%0 Journal Article
+%0 Conference Proceedings
 %T Computational steering in RealityGrid
 %A Pickles, Stephen
 %A Haines, R
 %A Pinning, R
 %A Porter, A
-%J Proceedings of the UK e-Science All Hands Meeting, Nottingham
+%B Proceedings of the UK e-Science All Hands Meeting, Nottingham
 %D 2004
 
 
@@ -159,8 +159,9 @@
 %A Brooke, John Martin
 %A D'Amora, Bruce
 %A Danani, Bob
-%B Application-specific Systems, Architectures and Processors (ASAP), 2014 IEEE 25th International Conference on
+%B 2014 IEEE 25th International Conference on Application-Specific Systems, Architectures and Processors
 %P 178-179
+%@ 1063-6862
 %D 2014
 %I IEEE
 
