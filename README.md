@@ -4,10 +4,10 @@ Every so often I update this repository using [Google Scholar][1] data.
 
 ## Citation indices
 
-|   | All | Since 2012 |
+|   | All | Since 2013 |
 |---|----:|-----------:|
-| Citations | 568 | 473 |
-| h-index | 8 | 6 |
+| Citations | 675 | 570 |
+| h-index | 8 | 5 |
 | i10-index | 6 | 3 |
 
 ## Data files
