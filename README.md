@@ -6,7 +6,7 @@ Every so often I update this repository using [Google Scholar][1] data.
 
 |   | All | Since 2013 |
 |---|----:|-----------:|
-| Citations | 728 | 619 |
+| Citations | 731 | 622 |
 | h-index | 9 | 5 |
 | i10-index | 7 | 3 |
 
