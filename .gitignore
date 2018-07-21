@@ -107,3 +107,11 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+# ruby env
+.ruby-version
+.ruby-gemset
+
+# generated files
+RobertHaines.tex
+RobertHaines.pdf

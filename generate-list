@@ -1,0 +1,23 @@
+#!/usr/bin/env ruby
+#
+# Generate a "selected publications" list from the bib file.
+#
+# Robert Haines 2018
+#
+
+require 'bibtex'
+
+bib = BibTeX.open('RobertHaines.bib')
+tex = File.read('RobertHaines.in.tex')
+
+entries = bib.inject([]) do |acc, entry|
+  acc << [entry[:year].to_i, entry.id]
+end.sort_by { |i| i[0] }.reverse
+
+list = entries.inject('') do |acc, entry|
+  acc << "  \\item \\bibentry{#{entry[1]}}\n"
+end
+
+tex.sub!('  \item !REPLACE!', list)
+
+File.write('RobertHaines.tex', tex)
