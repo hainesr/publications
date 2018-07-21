@@ -16,7 +16,7 @@ This is a link to the raw data, not the GitHub "pretty" version: [BibTeX][2]
 
 ## Publication list
 
-A PDF with all publications in it can be auto-generated from the BibTeX file. This requires LaTeX, latexmk, ruby and bibtex-ruby:
+A PDF with all publications in it can be auto-generated from the BibTeX file. This requires LaTeX, latexmk, ruby and [bibtex-ruby][3]:
 
 ```shell
 $ make
@@ -25,3 +25,4 @@ The intermediate LaTeX file (RobertHaines.tex) can be edited to include only tho
 
 [1]: http://scholar.google.co.uk/citations?user=lIcRrmQAAAAJ&hl=en
 [2]: https://raw.githubusercontent.com/hainesr/publications/master/RobertHaines.bib
+[3]: https://rubygems.org/gems/bibtex-ruby
