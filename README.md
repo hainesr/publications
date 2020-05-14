@@ -4,11 +4,11 @@ Every so often I update this repository using [Google Scholar][1] data.
 
 ## Citation indices
 
-|   | All | Since 2013 |
+|   | All | Since 2015 |
 |---|----:|-----------:|
-| Citations | 855 | 703 |
-| h-index | 9 | 6 |
-| i10-index | 9 | 5 |
+| Citations | 1029 | 783 |
+| h-index | 10 | 8 |
+| i10-index | 12 | 7 |
 
 ## Data
 
